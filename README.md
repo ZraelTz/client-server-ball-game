@@ -3,7 +3,7 @@
 
 **Simple client-server program .** 
 
-To start the game, run the ServerMain.java program first then run the PlayerMain.java program, run at least two Player programs to play the game.
+To start the game, run the ServerMain.java program first then run the PlayerMain.java program, run at least two Player processes to play the game.
 
 **Features:**
 
